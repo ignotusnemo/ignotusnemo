@@ -1,16 +1,36 @@
-## Hi there 👋
+```
+GREETINGS, CRYPTO PARANOIDS.
 
-<!--
-**ignotusnemo/ignotusnemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have watched blockchains drift toward the very thing they were meant to destroy.
 
-Here are some ideas to get you started:
+History grows without end. Verification becomes heavier. 
+People stop determining truth for themselves and borrow it from APIs, 
+explorers, exchanges, foundations and data centers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is not decentralization. It is rented verification.
+
+The post-quantum transition will make this worse. Larger signatures and heavier cryptography, 
+appended forever, will turn today's debt into tomorrow's dependency.
+
+You can build post-quantum signatures and other primitives. 
+But they alone do not make a system post-quantum.
+
+Security targets and conjectures are not proofs. Marketing is not soundness.
+
+I wanted a system that ordinary hardware could fully verify today and decades from now. 
+Post-quantum from the first block. Not promised for later. Proven end to end.
+
+That became Parano1d.
+
+Proofs establish validity.
+Proof of work establishes canonical order.
+State is validated from genesis in O(1).
+End-to-end post-quantum soundness meets the NIST PQC Category 1 threshold.
+
+I searched for a blockchain where the present could prove the past
+without replaying it. I found none.
+
+So I built one ①.
+```
+
+https://parano1d.org
